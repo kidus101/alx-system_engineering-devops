@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A 3 "tr A Z | tr c e
+tr A Z | tr c e
