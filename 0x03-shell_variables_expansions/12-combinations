@@ -2,3 +2,4 @@
 printf "%s\n" {a..z}{a..z} | grep -v "oo"
 printf "%0.2f\n" $NUM
 printf %xn $DECIMAL
+printf "%x\n" $DECIMAL
